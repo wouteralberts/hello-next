@@ -7,7 +7,7 @@ function RootLayout({ children }) {
     <html lang="en">
     <body>
     {children}
-    <footer>Copyright Wouter</footer>
+    <footer style={{color:'hotpink'}}>Copyright Wouter</footer>
     </body>
     </html>
   );
